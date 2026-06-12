@@ -1,5 +1,10 @@
 # PRODUCT REQUIREMENTS DOCUMENT (PRD)
 
+**Project Name:** [Project Name]
+**Version:** [Version]
+**Date:** [Date]
+**Author:** [Author]
+
 ## Every PRD MUST contain the following sections:
 
 ## 1. Problem Statement
